@@ -65,12 +65,12 @@ div#bg-3-4{
  right:0px;
 }
 div#parallax-bg-2 div{
- background:url('https://raw.githubusercontent.com/petukhovali/666/main/volna.png');
+ background:url('https://raw.githubusercontent.com/petukhovali/666/main/brizgi.png');
  background-repeat:no-repeat;
  position:absolute;
  display:block;
- width:770px;
- height:500px;
+ width:300px;
+ height:300px;
  overflow:hidden;
 }
 
